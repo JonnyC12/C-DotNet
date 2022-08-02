@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SRRKHiCUusZ6d8ljiyfz6T3akH6tx3hwnRhSBF1gVZo=",
+  "Source": "DotNetAPIRestFull",
+  "BasePath": "_content/DotNetAPIRestFull",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
