@@ -1,2 +1,2 @@
 # C#-DotNet
-Repositorio donde colocaré todos mis desarrollos y aprendizajes sobre C# y DotNet.
+Repositorio donde colocaré todos mis desarrollos y aprendizajes sobre DotNet.
