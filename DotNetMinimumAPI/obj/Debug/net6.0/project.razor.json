@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\jonat\\OneDrive\\Desktop\\C#-.Net\\CSharp-DotNet\\DotNetAPIRestFull\\DotNetAPIRestFull.csproj",
+  "FilePath": "c:\\Users\\jonat\\OneDrive\\Desktop\\C#-.Net\\CSharp-DotNet\\DotNetMinimumAPI\\DotNetMinimumAPI.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "DotNetAPIRestFull",
+  "RootNamespace": "DotNetMinimumAPI",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
